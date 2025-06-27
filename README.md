@@ -3,7 +3,7 @@
 ## Outputs
 ![Screenshot 2025-06-27 173004](https://github.com/user-attachments/assets/d872a37b-a57c-47a8-977e-f1797dfb75ea)
 <br>
-![2](https://github.com/user-attachments/assets/1ab97faa-4e45-41e0-b5a2-ebfbc5ac8ef0)
+![2](https://github.com/user-attachments/assets/2f4c5c2b-a747-4434-88ab-fc0e895bc2a3)
 <br>
 ![3](https://github.com/user-attachments/assets/5a00a01f-c552-4941-aaf3-16207e48dc53)
 <br>
