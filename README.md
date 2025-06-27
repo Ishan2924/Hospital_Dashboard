@@ -1,5 +1,24 @@
 # Hospital Operations Dashboard
 
+## Outputs
+![Screenshot 2025-06-27 173004](https://github.com/user-attachments/assets/d872a37b-a57c-47a8-977e-f1797dfb75ea)
+<br>
+![2](https://github.com/user-attachments/assets/1ab97faa-4e45-41e0-b5a2-ebfbc5ac8ef0)
+<br>
+![3](https://github.com/user-attachments/assets/5a00a01f-c552-4941-aaf3-16207e48dc53)
+<br>
+![4](https://github.com/user-attachments/assets/e476ae8d-8d29-4238-bbe7-36177f015aee)
+<br>
+![5](https://github.com/user-attachments/assets/7114a606-7194-43c2-93d6-f205a958ab83)
+<br>
+![6](https://github.com/user-attachments/assets/3b2fdbcd-37cb-4de3-b4d8-22846ac671e2)
+<br>
+
+
+
+
+
+
 This project delivers a comprehensive and interactive Hospital Operations Dashboard designed to provide deep insights into various facets of hospital management. Leveraging a robust MySQL backend for data integration and sophisticated analytical capabilities, this dashboard empowers stakeholders to monitor performance, identify trends, and make data-driven decisions across patient care, doctor performance, hospital operations, and financial health.
 
 ## Project Objective
